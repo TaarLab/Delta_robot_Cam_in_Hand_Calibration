@@ -29,3 +29,8 @@ Run 3_psudo_inverse_code.ipynb, its result will be in Matrices\values.npy
 ](https://doi.org/10.1109/ICRoM60803.2023.10412424)
 
 [From Bricks to Bots: Automated Collision-Aware Sequence Planning for LEGO Reconstruction with a Two-Finger Gripper](https://doi.org/10.1109/ICCIA65044.2024.10768173)
+
+
+## Related repos:
+[Trajectory Planning Experimental Comparison Study](https://github.com/Arvin-Mohammadi/Delta-Robot-Trajectory-Planning-V3)
+
