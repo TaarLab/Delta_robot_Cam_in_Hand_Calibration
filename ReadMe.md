@@ -23,3 +23,9 @@ Run 2_Camera_coordinates_sorter.ipynb to create and sort camera and robot coordi
 
 ## Forth Step
 Run 3_psudo_inverse_code.ipynb, its result will be in Matrices\values.npy
+
+## Read More:
+[Generating a general culturing microorganism pattern using a delta parallel robot and cam-in-hand calibration method
+](https://doi.org/10.1109/ICRoM60803.2023.10412424)
+
+[From Bricks to Bots: Automated Collision-Aware Sequence Planning for LEGO Reconstruction with a Two-Finger Gripper](https://doi.org/10.1109/ICCIA65044.2024.10768173)
